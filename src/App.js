@@ -1,5 +1,5 @@
 import reactlogo from './logo.svg';
-import logo from './heart.svg';
+import logo from './heart-svgrepo-com.svg';
 import Tanzulogo from './logo-vmware.png';
 import './App.css';
 
